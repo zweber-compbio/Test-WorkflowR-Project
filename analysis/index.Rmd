@@ -8,7 +8,11 @@ editor_options:
   chunk_output_type: console
 ---
 
-Welcome to my research website.
+#Welcome to my research website.
 
-
+## Tutorial
 [Teeth Analysis](teeth.html)
+
+
+## T. Thermophila Team Links
+[Liv Pura's Site](https://oliviapura.github.io/myproject/)
